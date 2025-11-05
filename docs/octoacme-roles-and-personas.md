@@ -1,3 +1,31 @@
+---
+
+## Additional Proposed Roles
+
+### Product Owner
+- Defines product vision and goals.
+- Prioritizes the product backlog.
+- Acts as the main liaison between stakeholders and the delivery team.
+
+### QA Lead
+- Oversees quality assurance processes.
+- Coordinates testing activities.
+- Ensures deliverables meet acceptance criteria.
+
+### Release Manager
+- Plans and coordinates releases.
+- Manages deployment schedules.
+- Communicates release status to stakeholders.
+
+### Business Analyst
+- Gathers and documents requirements.
+- Writes user stories and acceptance criteria.
+- Ensures alignment between business needs and technical solutions.
+
+### Support Lead
+- Handles post-release support and triages issues.
+- Communicates feedback and incidents to the team.
+- Coordinates with QA and Product Owner for continuous improvement.
 # OctoAcme Personas
 
 This document defines typical roles and responsibilities used in OctoAcme project docs and exercises.
